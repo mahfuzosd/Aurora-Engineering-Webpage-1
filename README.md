@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aurora Engineering — Enterprise Website & Client Portal
 
 **Production-Ready Engineering Firm Website with CMS & Lead Management**
@@ -456,3 +457,7 @@ Stock photos from Pexels.com are free for commercial use with no attribution req
 **Version**: 1.0.0
 **Last Updated**: December 2024
 **Build Status**: Production Ready ✅
+=======
+# Aurora-Engineering-Webpage-1
+Engineering Firm Webpage(Aurora)
+>>>>>>> d075a66c54c48f4036ed107b80c2a0a21f501571
